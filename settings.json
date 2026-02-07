@@ -122,5 +122,11 @@
   // Session Management
   "session": {
     "restore_unsaved_buffers": false
+  },
+
+  // Privacy & Telemetry
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
   }
 }
