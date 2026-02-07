@@ -206,16 +206,10 @@ setup.
 }
 ```
 
-Use whatever parts of this are helpful. Ignore the rest.
-
 ## Keybindings
 
-Custom keybindings (`keymaps.json`) are not included yet.
-I’m still in the process of migrating my Neovim keybindings to Zed.
-
-I’m still in the process of migrating my Neovim keybindings to Zed. When they’re
-ready, they’ll follow the same approach as everything else here: minimal,
-explicit, and easy to reason about.
+Custom keybindings (keymaps.json) are not included yet.
+I haven’t fully committed to Zed yet.
 
 ## Non-Goals
 
@@ -227,5 +221,3 @@ This repository is intentionally not trying to:
 - Act as a polished or branded configuration pack
 
 It’s simply the configuration I use and maintain.
-
-If it’s useful to you, great. If not, that’s fine too.
