@@ -221,3 +221,9 @@ This repository is intentionally not trying to:
 - Act as a polished or branded configuration pack
 
 It’s simply the configuration I use and maintain.
+
+---
+
+> **NOTE:**
+> For my Neovim (nightly) configuration and broader editor setup,
+> [see](https://github.com/nvimcraft/dotfiles-macos/tree/main/.config/nvim)
