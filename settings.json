@@ -5,5 +5,14 @@
   "ui_font_size": 18.0,
   "buffer_font_size": 18.0,
   "agent_ui_font_size": 18.0,
-  "agent_buffer_font_size": 18.0
+  "agent_buffer_font_size": 18.0,
+
+  // Theme & Icons
+  "theme": "Vague",
+  "theme_overrides": {
+    "Vague": {
+      "border": "#141415"
+    }
+  },
+  "icon_theme": "Colored Zed Icons Theme Dark"
 }
