@@ -101,5 +101,8 @@
   },
   "status_bar": {
     "experimental.show": false
-  }
+  },
+
+  // Window & Layout
+  "window_decorations": "client"
 }
