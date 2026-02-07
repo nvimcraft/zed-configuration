@@ -49,5 +49,24 @@
   // Scrollbars
   "scrollbar": {
     "show": "never"
+  },
+
+  // Panels & Sidebars
+  "project_panel": {
+    "auto_fold_dirs": false,
+    "button": false,
+    "entry_spacing": "standard",
+    "indent_guides": {
+      "show": "never"
+    }
+  },
+  "outline_panel": {
+    "auto_fold_dirs": false
+  },
+  "git_panel": {
+    "tree_view": true
+  },
+  "notification_panel": {
+    "button": false
   }
 }
