@@ -117,5 +117,10 @@
     "inline_blame": {
       "enabled": true
     }
+  },
+
+  // Session Management
+  "session": {
+    "restore_unsaved_buffers": false
   }
 }
