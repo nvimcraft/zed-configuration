@@ -68,5 +68,14 @@
   },
   "notification_panel": {
     "button": false
+  },
+
+  // Terminal
+  "terminal": {
+    "alternate_scroll": "off",
+    "blinking": "off",
+    "toolbar": {
+      "breadcrumbs": false
+    }
   }
 }
