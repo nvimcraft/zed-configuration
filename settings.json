@@ -77,5 +77,29 @@
     "toolbar": {
       "breadcrumbs": false
     }
+  },
+
+  // Tabs, Toolbars & Window Chrome
+  "tab_bar": {
+    "show": false
+  },
+  "preview_tabs": {
+    "enabled": false
+  },
+  "toolbar": {
+    "breadcrumbs": false,
+    "quick_actions": false,
+    "selections_menu": false
+  },
+  "title_bar": {
+    "show_project_items": false,
+    "show_user_picture": false,
+    "show_user_menu": false,
+    "show_sign_in": false,
+    "show_branch_icon": false,
+    "show_branch_name": false
+  },
+  "status_bar": {
+    "experimental.show": false
   }
 }
