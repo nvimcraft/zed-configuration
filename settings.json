@@ -44,5 +44,10 @@
   },
   "minimap": {
     "thumb_border": "none"
+  },
+
+  // Scrollbars
+  "scrollbar": {
+    "show": "never"
   }
 }
