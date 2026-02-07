@@ -30,5 +30,11 @@
   // Cursor & Selection
   "current_line_highlight": "none",
   "rounded_selection": false,
-  "cursor_blink": false
+  "cursor_blink": false,
+
+  // Popovers & Guides
+  "hover_popover_enabled": false,
+  "indent_guides": {
+    "enabled": false
+  }
 }
