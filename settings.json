@@ -110,5 +110,12 @@
   "show_edit_predictions": true,
   "inlay_hints": {
     "enabled": true
+  },
+
+  // Git Integration
+  "git": {
+    "inline_blame": {
+      "enabled": true
+    }
   }
 }
