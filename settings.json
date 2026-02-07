@@ -104,5 +104,11 @@
   },
 
   // Window & Layout
-  "window_decorations": "client"
+  "window_decorations": "client",
+
+  // Autocomplete & Inlay Hints
+  "show_edit_predictions": true,
+  "inlay_hints": {
+    "enabled": true
+  }
 }
