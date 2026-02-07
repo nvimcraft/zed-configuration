@@ -21,5 +21,9 @@
   "tab_size": 2,
   "relative_line_numbers": "enabled",
   "inline_code_actions": false,
-  "show_wrap_guides": false
+  "show_wrap_guides": false,
+
+  // Formatting
+  "formatter": "auto",
+  "format_on_save": "on"
 }
