@@ -208,7 +208,9 @@ setup.
 
 ## Keybindings
 
-Custom keybindings (keymaps.json) are not included yet.
+Custom keybindings (`keymaps.json`) are not included yet.
+I’m still considering whether to migrate parts of my Neovim
+[keybindings](https://github.com/nvimcraft/dotfiles-macos/tree/main/.config/nvim/lua/config/keymaps).
 I haven’t fully committed to Zed yet.
 
 ## Non-Goals
