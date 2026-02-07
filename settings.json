@@ -14,5 +14,12 @@
       "border": "#141415"
     }
   },
-  "icon_theme": "Colored Zed Icons Theme Dark"
+  "icon_theme": "Colored Zed Icons Theme Dark",
+
+  // Editor Behavior
+  "vim_mode": true,
+  "tab_size": 2,
+  "relative_line_numbers": "enabled",
+  "inline_code_actions": false,
+  "show_wrap_guides": false
 }
