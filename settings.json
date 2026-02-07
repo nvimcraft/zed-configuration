@@ -36,5 +36,13 @@
   "hover_popover_enabled": false,
   "indent_guides": {
     "enabled": false
+  },
+
+  // Gutter & Minimap
+  "gutter": {
+    "folds": false
+  },
+  "minimap": {
+    "thumb_border": "none"
   }
 }
